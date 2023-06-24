@@ -12,4 +12,4 @@ It includes web scraping, some data manipulation and basic statistics. I started
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/ilyurek/ManchesterCity/blob/main/code.png)
