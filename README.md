@@ -3,3 +3,6 @@ It includes web scraping, some data manipulation and basic statistisc. I started
 
 
 ![logo](https://github.com/ilyurek/ManchesterCity/blob/main/Manchester_City.png)
+
+# Hi, I'm İlyürek! 👋
+
